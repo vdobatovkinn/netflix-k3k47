@@ -4,7 +4,7 @@
   "description": "Auto-generated repo for DX farming",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js"vasdvasdv
   },
   "author": "",
   "license": "MIT"
